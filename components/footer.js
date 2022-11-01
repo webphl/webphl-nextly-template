@@ -30,7 +30,7 @@ export default function Footer() {
                       className="w-8"
                     />
                   </span>
-                  <span>Nextly</span>
+                  <span>WebPhL-Nextly</span>
                 </a>
               </Link>
             </div>
@@ -81,7 +81,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="">
-            <div>Follow us</div>
+            <div>Suivez-nous</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
                 href="https://twitter.com/web3templates"
@@ -128,7 +128,7 @@ export default function Footer() {
             href="https://www.glazestock.com/"
             target="_blank"
             rel="noopener ">
-            Glazestock
+            Glazestock-WebPhL
           </a>
         </div>
       </Container>
